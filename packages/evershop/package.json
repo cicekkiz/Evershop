@@ -57,7 +57,7 @@
     "axios": "^0.21.1",
     "babel-loader": "^8.2.3",
     "bcryptjs": "^2.4.3",
-    "body-parser": "^1.20.0",
+    "body-parser": "^1.20.3",
     "boxen": "^5.1.2",
     "chokidar": "^3.5.3",
     "clean-css": "^5.3.1",
